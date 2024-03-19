@@ -1,0 +1,10 @@
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC TAC TOE.csproj.AssemblyReference.cache
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC_TAC_TOE.Properties.Resources.resources
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC TAC TOE.csproj.GenerateResource.cache
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC TAC TOE.csproj.CoreCompileInputs.cache
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\bin\Debug\TIC TAC TOE.exe.config
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\bin\Debug\TIC TAC TOE.exe
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\bin\Debug\TIC TAC TOE.pdb
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC_TAC_TOE.Form1.resources
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC TAC TOE.exe
+D:\Visual Studio\TIC TAC TOE\TIC TAC TOE\obj\Debug\TIC TAC TOE.pdb
